@@ -9,7 +9,7 @@ import java.awt.*;
 @Getter @Setter @AllArgsConstructor @NoArgsConstructor
 public class Carro {
     private String modelo;
-    private Color color;
+    private Color cor;
     private Motor motor;
     private Montadora montadora;
 
